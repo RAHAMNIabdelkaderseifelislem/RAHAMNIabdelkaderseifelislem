@@ -1,8 +1,11 @@
 ### RAHAMNI abd el kader seif el islem or [aek426rahmani](https://aek426rahmani.000webhostapp.com/)
  
-  -I'm a full stack developer
-  
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAHAMNIabdelkaderseifelislem&label=Profile%20views&color=0e75b6&style=flat" alt="aek426rahmani" /> </p>
+
+An 19 years old Algerian full stack developer a computing science student at University Dr. Moulay Taher , Saida.DZ Have Skills in C, Java, Mobil Dev, Web dev <br>
   -currently learning great stuff 
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=RAHAMNIabdelkaderseifelislem)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
