@@ -1,9 +1,6 @@
 # Hey there, I'm Rahmani AbdElKader Seif El Islem 👋 
- 
-[![Portfolio](https://img.shields.io/badge/Website-Visit-blue)](https://rahamniabdelkaderseifelislem.github.io)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=RAHAMNIabdelkaderseifelislem&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RAHAMNIabdelkaderseifelislem)
- 
+[![](https://visitcount.itsvg.in/api?id=aek426rahmani&label=Profile%20Views&color=1&pretty=true)](https://rahamniabdelkaderseifelislem.github.io) 
 
 ---
 
