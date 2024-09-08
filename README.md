@@ -11,10 +11,10 @@
 
 ---
 
-# 🔥 Highlights:
-- 🏆 **Second place in two hackathons**, including one for developing an agricultural expert system with **Large Language Models (LLMs)** and **Mixture of Experts (MoE)**.
-- 🎓 Participated in Huawei's **Seeds for the Future** program, representing Algeria with my team of 7.
-- 💡 Worked on innovative projects like **AgriTechly**, a plant disease detection system, and **AI-powered chatbots** for task automation and business plan generation.
+# 🔥 Epic Highlights:
+- **🏆 Hackathon Hero:** Scored second place in two hackathons, including one for creating an **agricultural expert** system using cutting-edge **Large Language Models** (LLMs) and **Mixture of Experts** (MoE). 🧠🌱
+- **🌍 Global Impact:** Represented Algeria in **Huawei**'s prestigious **Seeds for the Future** program alongside a talented team of seven.
+- **💡 Innovator in Action:** Spearheaded impactful projects like **AgriTechly**, a plant disease detection system, and cutting-edge AI chatbots that **automate tasks** and **generate dynamic business plans**. 🚜🤖
 
 ---
 
