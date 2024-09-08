@@ -18,6 +18,20 @@ I'm a **22-year-old Algerian full-stack developer** and a recent **Master of Sci
 
 ---
 
+### 🧠 What I've been doing:
+- **AI & Machine Learning**: Deep Learning, NLP, Computer Vision, Model Training/Optimization, TensorFlow, Keras
+- **Data Science & Engineering**: Data preprocessing, ETL pipelines, data visualization (Matplotlib, Seaborn), data analysis (Pandas, NumPy), database design (SQL, MySQL, PostgreSQL)
+- **Web & Mobile Development**: 
+  - **Frontend**: HTML5, CSS3, Bootstrap, Sass, JavaScript, React.js
+  - **Backend**: PHP, Python (Flask, Django), Laravel
+  - **Mobile**: Flutter (cross-platform), Android Development (Java)
+- **Cloud & DevOps**: Docker, AWS, CI/CD pipelines
+- **Other Technologies**: LangChain for chatbot integration, Gradio for building AI-powered interfaces, API development, web scraping, task automation
+- **Coding Practices**: Code organization, design patterns, testing (unit, integration), code cleanliness, commenting best practices
+- **Team Collaboration & Project Management**: Agile methodology, task assignment, working with remote teams, Git/GitHub workflows
+
+---
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=RAHAMNIabdelkaderseifelislem)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
