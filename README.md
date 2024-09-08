@@ -11,6 +11,13 @@ I'm a **22-year-old Algerian full-stack developer** and a recent **Master of Sci
 
 ---
 
+### 🔥 Highlights:
+- 🏆 **Second place in two hackathons**, including one for developing an agricultural expert system with **Large Language Models (LLMs)** and **Mixture of Experts (MoE)**.
+- 🎓 Participated in Huawei's **Seeds for the Future** program, representing Algeria with my team of 7.
+- 💡 Worked on innovative projects like **AgriTechly**, a plant disease detection system, and **AI-powered chatbots** for task automation and business plan generation.
+
+---
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=RAHAMNIabdelkaderseifelislem)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
