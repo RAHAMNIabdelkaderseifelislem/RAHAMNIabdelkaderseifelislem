@@ -84,7 +84,12 @@ I'm a **22-year-old Algerian full-stack developer** and a recent **Master of Sci
 
 ---
 
-### 🌱 Learning & Growth:
+# 🌱 Learning & Growth:
 I'm currently focused on mastering **backend optimizations**, improving **AI model efficiency**, and scaling **cloud infrastructure** for large-scale deployments. Always eager to collaborate on interesting and innovative projects!
 
 ---
+
+### 💬 Let's connect!
+Feel free to reach out if you're interested in collaborating, learning from each other, or discussing new ideas!
+
+you can reach me on [LinkedIn](https://www.linkedin.com/in/abd-el-kader-seif-el-islem-rahmani-2805b019b/) or [X](https://twitter.com/AK426rahmani) or [mail](mailto:a.e.k426rahmani@gmail.com) or even [WhatsApp](https://wa.me/213668704202)
