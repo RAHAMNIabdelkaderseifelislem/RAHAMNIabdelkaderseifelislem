@@ -5,8 +5,11 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=RAHAMNIabdelkaderseifelislem&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RAHAMNIabdelkaderseifelislem)
  
 
-A 20 years old Algerian full stack developer a computing science student at University Dr. Moulay Taher , Saida.DZ Have Skills in C, Java, Mobil Dev, Web dev <br>
-  -currently learning great stuff 
+---
+
+I'm a **22-year-old Algerian full-stack developer** and a recent **Master of Science graduate** in Computer Science from the University of Dr. Moulay Taher, Saida, Algeria. Over the last two years, I have delved deeply into **Artificial Intelligence**, **Machine Learning**, **Data Science**, and a wide range of software development technologies. I'm passionate about building scalable and efficient solutions across various domains, from mobile apps to complex AI-driven applications.
+
+---
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=RAHAMNIabdelkaderseifelislem)](https://github.com/ryo-ma/github-profile-trophy)
 
