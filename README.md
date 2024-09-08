@@ -76,3 +76,10 @@ I'm a **22-year-old Algerian full-stack developer** and a recent **Master of Sci
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHAMNIabdelkaderseifelislem)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAHAMNIabdelkaderseifelislem&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
+
+# 💡 Current Projects:
+- Developing an **AI-powered chatbot** for generating business plans and dynamic task assignments for remote teams.
+- Exploring **generative AI** and **IoT applications** for networking and telecommunication final year projects.
+- Preparing for the **AI Agents Hackathon**, building a personalized AI Agent that automates business plan generation, marketing strategies, and task delegation.
+
+---
