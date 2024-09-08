@@ -7,7 +7,7 @@
 
 ---
 
-I'm a **22-year-old Algerian full-stack developer** and a recent **Master of Science graduate** in Computer Science from the University of Dr. Moulay Taher, Saida, Algeria. Over the last two years, I have delved deeply into **Artificial Intelligence**, **Machine Learning**, **Data Science**, and a wide range of software development technologies. I'm passionate about building scalable and efficient solutions across various domains, from mobile apps to complex AI-driven applications.
+🚀 Welcome to my coding universe! I'm a **22-year-old Algerian** tech enthusiast, a **full-stack developer**, and a proud Master of Science graduate in **Computer Modeling of Knowledge and Reasoning** from the University of Dr. Moulay Taher, Saida, Algeria. Over the last two years, I've been on a relentless journey into the world of **Artificial Intelligence**, **Machine Learning**, **Data Science**, and more. With every line of code, I'm driven by the challenge to build efficient, scalable, and intelligent systems—whether it's for mobile apps, AI-driven applications, or next-gen data solutions.
 
 ---
 
@@ -89,7 +89,7 @@ I'm currently focused on mastering **backend optimizations**, improving **AI mod
 
 ---
 
-### 💬 Let's connect!
+# 💬 Let's connect!
 Feel free to reach out if you're interested in collaborating, learning from each other, or discussing new ideas!
 
 you can reach me on [LinkedIn](https://www.linkedin.com/in/abd-el-kader-seif-el-islem-rahmani-2805b019b/) or [X](https://twitter.com/AK426rahmani) or [mail](mailto:a.e.k426rahmani@gmail.com) or even [WhatsApp](https://wa.me/213668704202)
