@@ -1,6 +1,9 @@
 ### Hey there, I'm Rahmani AbdElKader Seif El Islem 👋 
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RAHAMNIabdelkaderseifelislem&label=Profile%20views&color=0e75b6&style=flat" alt="aek426rahmani" /> </p>
+[![Portfolio](https://img.shields.io/badge/Website-Visit-blue)](https://rahamniabdelkaderseifelislem.github.io)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=RAHAMNIabdelkaderseifelislem&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RAHAMNIabdelkaderseifelislem)
+ 
 
 A 20 years old Algerian full stack developer a computing science student at University Dr. Moulay Taher , Saida.DZ Have Skills in C, Java, Mobil Dev, Web dev <br>
   -currently learning great stuff 
