@@ -18,17 +18,14 @@
 
 ---
 
-# 🧠 What I've been doing:
-- **AI & Machine Learning**: Deep Learning, NLP, Computer Vision, Model Training/Optimization, TensorFlow, Keras
-- **Data Science & Engineering**: Data preprocessing, ETL pipelines, data visualization (Matplotlib, Seaborn), data analysis (Pandas, NumPy), database design (SQL, MySQL, PostgreSQL)
-- **Web & Mobile Development**: 
-  - **Frontend**: HTML5, CSS3, Bootstrap, Sass, JavaScript, React.js
-  - **BDaackend**: PHP, Python (Flask, Django), Laravel
-  - **Mobile**: Flutter (cross-platform), Android Development (Java)
-- **Cloud & DevOps**: Docker, AWS, CI/CD pipelines
-- **Other Technologies**: LangChain for chatbot integration, Gradio for building AI-powered interfaces, API development, web scraping, task automation
-- **Coding Practices**: Code organization, design patterns, testing (unit, integration), code cleanliness, commenting best practices
-- **Team Collaboration & Project Management**: Agile methodology, task assignment, working with remote teams, Git/GitHub workflows
+# 💻 What I'm passionate about:
+- **AI & Machine Learning:** Crafting smart models in **Deep Learning**, **NLP**, **Computer Vision**; optimizing and training models with TensorFlow and Keras to bring AI to life.
+- **Data Science & Engineering:** Creating robust data pipelines, transforming raw data into actionable insights with **Pandas**, **NumPy**, and visualizing trends through **Matplotlib**, **Plotly** and **Seaborn**.
+- **Web & Mobile Development:**
+  - **Frontend Wizardry:** Bringing interfaces to life with **HTML5**, **CSS3**, **Bootstrap**, **React.js**, and **Flutter** for mobile apps.
+  - **Backend Mastery:** Powering applications with **PHP**, **Python (Flask, Django)**, making sure everything runs seamlessly in the background.
+- **Cloud & DevOps:** Streamlining operations with **AWS**, **Docker**, and automating deployments through **CI/CD pipelines**.
+- **Tooling & Automation:** Building interfaces using **LangChain**, AI-powered apps with **Gradio**, and automating tasks through custom **APIs** and **web scraping**.
 
 ---
 
