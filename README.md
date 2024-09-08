@@ -83,3 +83,8 @@ I'm a **22-year-old Algerian full-stack developer** and a recent **Master of Sci
 - Preparing for the **AI Agents Hackathon**, building a personalized AI Agent that automates business plan generation, marketing strategies, and task delegation.
 
 ---
+
+### 🌱 Learning & Growth:
+I'm currently focused on mastering **backend optimizations**, improving **AI model efficiency**, and scaling **cloud infrastructure** for large-scale deployments. Always eager to collaborate on interesting and innovative projects!
+
+---
