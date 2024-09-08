@@ -1,4 +1,4 @@
-### Hey there, I'm Rahmani AbdElKader Seif El Islem 👋 
+# Hey there, I'm Rahmani AbdElKader Seif El Islem 👋 
  
 [![Portfolio](https://img.shields.io/badge/Website-Visit-blue)](https://rahamniabdelkaderseifelislem.github.io)
 
@@ -11,14 +11,14 @@ I'm a **22-year-old Algerian full-stack developer** and a recent **Master of Sci
 
 ---
 
-### 🔥 Highlights:
+# 🔥 Highlights:
 - 🏆 **Second place in two hackathons**, including one for developing an agricultural expert system with **Large Language Models (LLMs)** and **Mixture of Experts (MoE)**.
 - 🎓 Participated in Huawei's **Seeds for the Future** program, representing Algeria with my team of 7.
 - 💡 Worked on innovative projects like **AgriTechly**, a plant disease detection system, and **AI-powered chatbots** for task automation and business plan generation.
 
 ---
 
-### 🧠 What I've been doing:
+# 🧠 What I've been doing:
 - **AI & Machine Learning**: Deep Learning, NLP, Computer Vision, Model Training/Optimization, TensorFlow, Keras
 - **Data Science & Engineering**: Data preprocessing, ETL pipelines, data visualization (Matplotlib, Seaborn), data analysis (Pandas, NumPy), database design (SQL, MySQL, PostgreSQL)
 - **Web & Mobile Development**: 
@@ -32,7 +32,7 @@ I'm a **22-year-old Algerian full-stack developer** and a recent **Master of Sci
 
 ---
 
-### 🛠️ Languages, Frameworks & Tools:
+# 🛠️ Languages, Frameworks & Tools:
 
 <p align="left">
     <!-- Frontend Development -->
@@ -72,9 +72,7 @@ I'm a **22-year-old Algerian full-stack developer** and a recent **Master of Sci
 </p>
 
 ---
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=RAHAMNIabdelkaderseifelislem)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHAMNIabdelkaderseifelislem)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RAHAMNIabdelkaderseifelislem&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHAMNIabdelkaderseifelislem)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAHAMNIabdelkaderseifelislem&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+---
