@@ -16,7 +16,6 @@ Here's an updated `README.md` that reflects your latest skills, projects, and ex
 - **🏆 Hackathon Standout:** Achieved second place in two hackathons, where I developed innovative solutions, including an **agricultural expert system** using **Large Language Models (LLMs)**, **Mixture of Experts (MoE)**, and **Retrieval-Augmented Generation (RAG)**.
 - **🌍 Global Ambassador:** Represented Algeria in the **Huawei Seeds for the Future 2024** program as part of a team of seven.
 - **💡 AI Innovations:** Co-created systems like **AgriTechly**, a real-time plant disease detection solution, and **AgriChat**, a dynamic AI chatbot for task automation and business planning.
-- **🚗 Startup Launch:** Founded a startup for chauffeur and VTC services in Algeria, offering ride-sharing and delivery services by motorcycle.
 - **🔍 Publications and Research:** My contributions to **scientific publications** showcase my expertise in **data mining** and **deep learning**.
 
 ---
