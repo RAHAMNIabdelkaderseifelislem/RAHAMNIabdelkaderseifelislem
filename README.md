@@ -31,6 +31,7 @@
 - **Master of Science in Computer Modeling of Knowledge and Reasoning** - University of Saida, Algeria
 - **Bachelor of Science in Computer Science** - University of Saida, Algeria
 - **Certified Deep Learning Engineer** - **Coursera**
+- **Certified Software Engineer** - **HackerRank**
 
 ---
 
@@ -111,7 +112,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RAHAMNIabdelkaderseifelislem&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-6ijsh5lcg-xisben2001x.vercel.app/api?username=RAHAMNIabdelkaderseifelislem&theme=dark&hide_border=false&show_icons=false&include_all_commits=true)<br/>
-![](https://github-readme-stats-6ijsh5lcg-xisben2001x.vercel.app/api/top-langs/?username=RAHAMNIabdelkaderseifelislem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20)
+![](https://github-readme-stats-6ijsh5lcg-xisben2001x.vercel.app/api/top-langs/?username=RAHAMNIabdelkaderseifelislem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20)<br/>
+![](https://github-profile-trophy.vercel.app/?username=RAHAMNIabdelkaderseifelislem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
 # 💡 Current Projects:
