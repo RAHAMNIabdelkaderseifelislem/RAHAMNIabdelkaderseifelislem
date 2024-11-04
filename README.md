@@ -16,7 +16,6 @@ Here's an updated `README.md` that reflects your latest skills, projects, and ex
 - **🏆 Hackathon Standout:** Achieved second place in two hackathons, where I developed innovative solutions, including an **agricultural expert system** using **Large Language Models (LLMs)**, **Mixture of Experts (MoE)**, and **Retrieval-Augmented Generation (RAG)**.
 - **🌍 Global Ambassador:** Represented Algeria in the **Huawei Seeds for the Future 2024** program as part of a team of seven.
 - **💡 AI Innovations:** Co-created systems like **AgriTechly**, a real-time plant disease detection solution, and **AgriChat**, a dynamic AI chatbot for task automation and business planning.
-- **🚗 Startup Launch:** Founded a startup for chauffeur and VTC services in Algeria, offering ride-sharing and delivery services by motorcycle.
 - **🔍 Publications and Research:** My contributions to **scientific publications** showcase my expertise in **data mining** and **deep learning**.
 
 ---
@@ -36,6 +35,7 @@ Here's an updated `README.md` that reflects your latest skills, projects, and ex
 - **Master of Science in Computer Modeling of Knowledge and Reasoning** - University of Saida, Algeria
 - **Bachelor of Science in Computer Science** - University of Saida, Algeria
 - **Certified Deep Learning Engineer** - **Coursera**
+- **Certified Software Engineer** - **HackerRank**
 
 ---
 
@@ -115,8 +115,9 @@ Here's an updated `README.md` that reflects your latest skills, projects, and ex
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RAHAMNIabdelkaderseifelislem&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-6ijsh5lcg-xisben2001x.vercel.app/api?username=RAHAMNIabdelkaderseifelislem&theme=dark&hide_border=false&show_icons=false&include_all_commits=true)
-![](https://github-readme-stats-6ijsh5lcg-xisben2001x.vercel.app/api/top-langs/?username=RAHAMNIabdelkaderseifelislem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20)
+![](https://github-readme-stats-6ijsh5lcg-xisben2001x.vercel.app/api?username=RAHAMNIabdelkaderseifelislem&theme=dark&hide_border=false&show_icons=false&include_all_commits=true)<br/>
+![](https://github-readme-stats-6ijsh5lcg-xisben2001x.vercel.app/api/top-langs/?username=RAHAMNIabdelkaderseifelislem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=20)<br/>
+![](https://github-profile-trophy.vercel.app/?username=RAHAMNIabdelkaderseifelislem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 
 # 💡 Current Projects:
