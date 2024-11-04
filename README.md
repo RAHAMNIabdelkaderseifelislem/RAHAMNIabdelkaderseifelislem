@@ -1,7 +1,3 @@
-Here's an updated `README.md` that reflects your latest skills, projects, and experiences:
-
----
-
 # Hey there, I'm Rahmani AbdElKader Seif El Islem 👋 
 
 [![](https://visitcount.itsvg.in/api?id=aek426rahmani&label=Profile%20Views&color=1&pretty=true)](https://rahamniabdelkaderseifelislem.github.io) 
