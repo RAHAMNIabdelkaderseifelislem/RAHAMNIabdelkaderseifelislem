@@ -180,7 +180,7 @@ Building integrated systems: ML + NLP + IoT + Real-time Analytics
 
 *"Code with purpose. Learn with fire. Build with passion."*
 
-**— Abd El Kader Seif El Islem Rahmani**
+**— AbdElKader Seif El Islem Rahmani**
 
 ---
 
