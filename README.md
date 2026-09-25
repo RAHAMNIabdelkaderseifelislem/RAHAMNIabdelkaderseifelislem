@@ -78,14 +78,6 @@ Assembling my first complete PhD thesis draft — *Generative AI Methods for Aut
 
 ---
 
-## 🏗️ Currently Building
-
-- 🧵 **Meta-LADDER** & **C³-Agent** — doctoral papers on adaptive symbolic reasoning and context-adaptive LLM agent policies
-- 🛡️ **AI cybersecurity agent suite** — a business concept giving SMBs a full AI-driven cybersecurity team (training, docs, assessments, anti-phishing, pentesting, SIEM/observability)
-- 📱 **Dhakkirni (ذكّرني)** — an Algerian IFU tax-compliance mobile app
-- 🤝 Prototyping an AI-assisted workflow (AFIJ-SYN-001) in collaboration with a partner in Japan
-
----
 
 ## 🏆 Highlights
 
